@@ -24,7 +24,3 @@ Feel free to contribute, report issues, or suggest improvements!
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
